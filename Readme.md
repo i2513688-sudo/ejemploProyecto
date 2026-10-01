@@ -1,3 +1,3 @@
-# Proyect0 Ejemplo 
+# Proyecto Ejemplo 
 
 Nuestro primer proyecto en grupo
